@@ -9,10 +9,18 @@
 
 }   
 
-#container div{
+#container {
     box-sizing: border-box;
     border: 1px solid ;
-    
+}
+
+.grid {
+    box-sizing: border-box;
+    border: 1px solid ;
+}
+
+.oppclass{
+    opacity: 0;
 
 }
 
